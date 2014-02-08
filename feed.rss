@@ -12,7 +12,7 @@
       <description>The whole English wikipedia, except images, in ZIM format (see http://kiwix.org/)</description>
     </item>
     <item>
-      <title>OpenStreetMap</title>
+      <title>OpenStreetMap (32Gb)</title>
       <link>http://osm-torrent.torres.voyager.hr/files/planet-140131.osm.bz2.torrent</link>
       <guid>http://osm-torrent.torres.voyager.hr/files/planet-140131.osm.bz2.torrent</guid>
       <pubDate>Mon, 03 Feb 2014 23:42:26 +0100</pubDate>
@@ -40,10 +40,10 @@
       <description> A history of the world since 1300 (only one of the many coursera courses).  </description>
     </item>
     <item>
-      <title>Coursera</title>
+      <title>Gutenberg (8Gb)</title>
       <link>http://snowy.arsc.alaska.edu/cdproject/torrents/pgdvd042010.iso.torrent</link>
       <guid>http://snowy.arsc.alaska.edu/cdproject/torrents/pgdvd042010.iso.torrent</guid>
-      <pubDate>Mon, 03 Feb 2014 23:45:26 +0100</pubDate>
+      <pubDate>Mon, 03 Feb 2014 23:46:26 +0100</pubDate>
       <description> A history of the world since 1300 (only one of the many coursera courses).  </description>
     </item>
   </channel>
