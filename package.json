@@ -1,0 +1,9 @@
+{
+  "name": "fizno",
+  "description": "A Physical Knowledge Container",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "node-static": "*"
+  }
+}
