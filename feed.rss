@@ -5,14 +5,14 @@
 <link>http://fizno.com/</link>
 <description>Seed this feed and be part of the fizno mesh of physical knowledge nodes!</description>
 <item>
-<title>Wikipedia (English, no images)</title>
+<title>Wikipedia</title>
 <link>http://download.kiwix.org/portable/wikipedia_en_all_nopic.zip.torrent</link>
 <guid>http://download.kiwix.org/portable/wikipedia_en_all_nopic.zip.torrent</guid>
-<pubDate>Sat, 8 Feb 2014 19:52:00 GMT</pubDate>
+<pubDate>Sat, 1 Feb 2014 19:52:00 GMT</pubDate>
 <description>The whole English wikipedia, except images, in ZIM format (see http://kiwix.org/)</description>
 </item>
 <item>
-<title>OpenStreetMap (the planet)</title>
+<title>OpenStreetMap</title>
 <link>
 http://osm-torrent.torres.voyager.hr/files/planet-140131.osm.bz2.torrent
 </link>
