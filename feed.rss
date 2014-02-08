@@ -25,3 +25,29 @@ OSM Torrent planet-140131.osm.bz2.torrent (torrent size: 165808).
 See: http://osm-torrent.torres.voyager.hr/
 </description>
 </item>
+<item>
+<title>Ubuntu</title>
+<link>
+http://torrent.ubuntu.com:6969/file?info_hash=Yz%92%F6%EE%ED%29%E6%02%8Bp%B4%16%C8G%E5%1B%A7l8
+</link>
+<guid>
+http://torrent.ubuntu.com:6969/file?info_hash=Yz%92%F6%EE%ED%29%E6%02%8Bp%B4%16%C8G%E5%1B%A7l8
+</guid>
+<pubDate>Mon, 03 Feb 2014 23:43:26 +0100</pubDate>
+<description>
+Install ISO of the Ubuntu operating system.
+</description>
+</item>
+<item>
+<title>Khan Academy</title>
+<link>
+magnet:?xt=urn:btih:b954f79f319b1d51d54068e90ca2f64b5c491b45&dn=Khan+Academy+-+Complete+Set+-+480x272+-+7.+Aug.+2011&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+</link>
+<guid>
+magnet:?xt=urn:btih:b954f79f319b1d51d54068e90ca2f64b5c491b45&dn=Khan+Academy+-+Complete+Set+-+480x272+-+7.+Aug.+2011&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+</guid>
+<pubDate>Mon, 03 Feb 2014 23:44:26 +0100</pubDate>
+<description>
+Complete set of videos (from 2011).
+</description>
+</item>
