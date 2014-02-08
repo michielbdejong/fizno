@@ -1,4 +1,4 @@
-var knowledgeDir = './knowledge/',
+var knowledgeDir = './',
   http = require('http'),
   nodestatic = require('node-static'),
   fs = require('fs'),
