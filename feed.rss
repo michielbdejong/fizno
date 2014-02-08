@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>FIZNO</title>
+<link>http://fizno.com/</link>
+<description>Seed this feed and be part of the fizno mesh of physical knowledge nodes!</description>
+<item>
+<title>Kiwix (wikipedia)</title>
+<link>http://download.kiwix.org/portable/wikipedia_en_all_nopic.zip.torrent</link>
+<guid>http://download.kiwix.org/portable/wikipedia_en_all_nopic.zip.torrent</guid>
+<pubDate>Sat, 8 Feb 2014 19:52:00 GMT</pubDate>
+<description>The whole English wikipedia, except images, in ZIM format (see http://kiwix.org/)</description>
+</item>
