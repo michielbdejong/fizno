@@ -11,6 +11,7 @@ RUN apt-get install -y nodejs
 
 RUN apt-get install -y screen
 RUN mkdir knowledge
+RUN #screen -d -m -S wikipedia transmission-cli -w knowledge/ http://download.kiwix.org/portable/wikipedia_en_all_nopic.zip.torrent
 RUN #screen -d -m -S osm transmission-cli -w knowledge/ http://osm-torrent.torres.voyager.hr/files/planet-140131.osm.bz2.torrent &
 RUN #screen -d -m -S ubuntu transmission-cli -w knowledge/ http://torrent.ubuntu.com:6969/file?info_hash=Yz%92%F6%EE%ED%29%E6%02%8Bp%B4%16%C8G%E5%1B%A7l8 &
 RUN #screen -d -m -S khan transmission-cli -w knowledge/  magnet:?xt=urn:btih:b954f79f319b1d51d54068e90ca2f64b5c491b45&&dn=Khan+Academy+-+Complete+Set+-+480x272+-+7.+Aug.+2011&&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&&tr=udp%3A%2F%2Fopen.demonii.com%3A1337 &
