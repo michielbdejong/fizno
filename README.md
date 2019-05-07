@@ -1,5 +1,7 @@
 # FIZno
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/michielbdejong/fizno.svg)](https://greenkeeper.io/)
+
 project for http://freedomhack.in/
 
 website is http://fizno.com/
